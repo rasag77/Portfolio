@@ -5,7 +5,7 @@ Portfolio do desenvolvedor
 O controle das tarefas deste projeto será realizado no GitHub
 
 ## Icones
-nova_funcionalidade
-atualização
-correção de bug
-release
+:package: nova_funcionalidade
+:up: atualização
+:beatle: correção de bug
+:checkered: release
